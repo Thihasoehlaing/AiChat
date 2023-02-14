@@ -1,4 +1,4 @@
-# Build and Deploy Your Own ChatGPT AI Application That Will Help You Code with VanillaJs
+# Build Your Own ChatGPT AI Application That Will Help You Code with VanillaJs
 
 ### Learn your development career from - https://www.jsmastery.pro
 
